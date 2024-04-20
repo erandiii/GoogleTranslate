@@ -1,7 +1,9 @@
 # GoogleTranslate
 Assignment for Wire Apps
 
-Use below credentials to login Testtrais - 
+I have created the test cases using Testrail
+
+Use below credentials to login Testrail - 
 "hwkewijerathne@gmail.com", 
 Mars123;
 
